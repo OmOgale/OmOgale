@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Fullstack Development with the MERN stack**
 
-- 👨‍💻 All of my projects are available at [omogale.vercel.app](https://omogale.vercel.app/)
+- 👨‍💻 All of my projects and experiences are available at [omogale.vercel.app](https://omogale.vercel.app/)
 
 - 📝 I regularly write articles on [omogale.vercel.app/blog](https://omogale.vercel.app/blog)
 
 - 📫 How to reach me **oogale@uwaterloo.ca**
-
-- 📄 Know about my experiences [omogale.vercel.app](https://omogale.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
