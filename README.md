@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects and experiences are available at [omogale.vercel.app](https://omogale.vercel.app/)
 
-- 📝 I regularly write articles on [omogale.vercel.app/blog](https://omogale.vercel.app/blog)
+<!-- - 📝 I regularly write articles on [omogale.vercel.app/blog](https://omogale.vercel.app/blog) -->
 
 - 📫 How to reach me **oogale@uwaterloo.ca**
 
