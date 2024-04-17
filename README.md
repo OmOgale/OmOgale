@@ -9,7 +9,7 @@
 
 <!-- - 📝 I regularly write articles on [omogale.vercel.app/blog](https://omogale.vercel.app/blog) -->
 
-- 📫 How to reach me **oogale@uwaterloo.ca**
+- 📫 Reach me at **oogale@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
