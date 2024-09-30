@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PlaceMe](https://github.com/PlaceMe-Website/PlaceMe)
 
-- 🌱 I’m currently learning **Fullstack Development with the MERN stack**
+- 🌱 I’m currently learning about building data-intensive scalable applications.
 
 - 👨‍💻 All of my projects and experiences are available at [omogale.vercel.app](https://omogale.vercel.app/)
 
