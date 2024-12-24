@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Om Bhushan Ogale</h1>
 <h3 align="center">A sophomore studying Computer Science at the University of Waterloo. Always looking to learn something new! I have delved with front-end and back-end development, scripting, as well as software testing along with hands-on assembly of embedded hardware systems.</h3>
 
-- 🔭 I’m currently working on [PlaceMe](https://github.com/PlaceMe-Website/PlaceMe)
+- 🔭 I’m currently working on my [Portfolio](https://omogale.vercel.app/)
 
 - 🌱 I’m currently learning about building data-intensive scalable applications.
 
