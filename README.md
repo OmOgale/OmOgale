@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Om Bhushan Ogale</h1>
 <h3 align="center">A junior (3B) studying Computer Science at the University of Waterloo. Always looking to learn something new! I have delved with front-end and back-end development, scripting, as well as software testing along with hands-on assembly of embedded hardware systems.</h3>
 
-- 🔭 I’m currently working on my [Portfolio](https://omogale.vercel.app/)
+- 🔭 I’m currently a Project Lead @ [UW Blueprint](https://uwblueprint.org/) for [Bobatalks](https://www.bobatalks.com/) (student career communtity of over 13k members)
+
+- 💼 Incoming Software Developer @ [GPTZero](https://gptzero.me/) in Winter 2026!!!
 
 - 🌱 I’m currently learning about building data-intensive scalable applications.
 
