@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Om Bhushan Ogale</h1>
-<h3 align="center">A junior (3B) studying Computer Science at the University of Waterloo. Always looking to learn something new! I have delved with front-end and back-end development, scripting, as well as software testing along with hands-on assembly of embedded hardware systems.</h3>
+<h3 align="center">A senior (4A) studying Computer Science at the University of Waterloo. Always looking to learn something new! I have delved with front-end and back-end development, scripting, as well as software testing along with hands-on assembly of embedded hardware systems.</h3>
 
 - 🔭 I’m currently a Project Lead @ [UW Blueprint](https://uwblueprint.org/) for [Bobatalks](https://www.bobatalks.com/) (student career communtity of over 13k members)
 
