@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Project Lead @ [UW Blueprint](https://uwblueprint.org/) for [Bobatalks](https://www.bobatalks.com/) (student career communtity of over 13k members)
 
-- 💼 Incoming Software Developer @ [GPTZero](https://gptzero.me/) in Winter 2026!!!
+- 💼 Software Developer @ [GPTZero](https://gptzero.me/) - Winter 2026!!!
 
 - 🌱 I’m currently learning about building data-intensive scalable applications.
 
